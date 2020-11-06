@@ -7,15 +7,15 @@ describe('reverse string test', () => {
         expect(ReverseString.reverse('')).toEqual('')
     })
 
-    it('reverse string', () => {
+    it('reverse string gniqeK', () => {
         expect(ReverseString.reverse('gniqeK')).toEqual('Keqing')
     })
 
-    it('reverse string 2', () => {
+    it('reverse string lhcsiF', () => {
         expect(ReverseString.reverse('lhcsiF')).toEqual('Fischl')
     })
 
-    it('reverse string 3', () => {
+    it('reverse string eelK', () => {
         expect(ReverseString.reverse('eelK')).toEqual('Klee')
     })
 })
